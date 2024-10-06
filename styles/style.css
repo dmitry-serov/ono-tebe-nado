@@ -91,11 +91,6 @@ body {
   letter-spacing: 0.3em;
 }
 
-.aligned-text_center {
-  margin-top: 13px;
-  margin-bottom: 4px;
-}
-
 .letter-spacing-extended {
   letter-spacing: 0.6em;
 }
@@ -141,6 +136,8 @@ body {
 
 .aligned-text_center {
   text-align: center;
+  margin-top: 13px;
+  margin-bottom: 4px;
 }
 
 .aligned-text_right {
